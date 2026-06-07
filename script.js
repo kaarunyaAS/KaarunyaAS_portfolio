@@ -176,16 +176,7 @@ function loadProjects() {
             team: "Individual",
             icon: "fas fa-mask"
         },
-        {
-            title: "HealthSprout – Nutrition & Fitness Tracker",
-            date: "October 2025",
-            description: "Comprehensive health-focused web application for tracking nutrition intake, fitness goals, BMI calculations with meal logging and personalized wellness insights.",
-            tech: ["Python Flask", "MySQL", "Frontend", "Data Visualization"],
-            github: "https://github.com/kaarunyaAS/HealthSprout",
-            role: "Backend Developer",
-            team: "5 members",
-            icon: "fas fa-heartbeat"
-        },
+        
         {
             title: "Healthcare Management System",
             date: "April 2025",
@@ -229,28 +220,6 @@ function loadProjects() {
             role: "Full Stack Developer",
             team: "Individual",
             icon: "fas fa-microphone"
-        },
-
-        {
-            title: "Fake Job Prediction System",
-            date: "January 2026",
-            description: "Machine learning model to classify job postings as real or fake using NLP techniques, improving detection accuracy and enhancing user trust in online job platforms.",
-            tech: ["Machine Learning", "NLP", "Python", "Scikit-learn"],
-            github: "https://github.com/kaarunyaAS/fake_job_prediction",
-            role: "ML Developer",
-            team: "Individual",
-            icon: "fas fa-briefcase"
-        },
-
-        {
-            title: "House Price Prediction System",
-            date: "May 2025",
-            description: "Flask-based machine learning web application using Random Forest Regression to predict house prices based on property features with real-time prediction results.",
-            tech: ["Flask", "Scikit-learn", "Machine Learning", "Random Forest"],
-            github: "https://github.com/kaarunyaAS/ML-House-Price-Predictor",
-            role: "Machine Learning Developer",
-            team: "Individual",
-            icon: "fas fa-home"
         },
 
         {
