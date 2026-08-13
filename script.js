@@ -130,7 +130,7 @@ function initResumeDownload() {
 
         const resumeFiles = {
             pdf: "KaarunyaAS_Resume.pdf",
-            doc: "Kaarunya_AS_Resume.doc"
+            doc: "KaarunyaAS_Resume.doc"
         };
 
         const filePath = resumeFiles[format];
