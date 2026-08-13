@@ -129,7 +129,7 @@ function initResumeDownload() {
         modal.classList.remove('show');
 
         const resumeFiles = {
-            pdf: "Kaarunya_AS_Resume.pdf",
+            pdf: "KaarunyaAS_Resume.pdf",
             doc: "Kaarunya_AS_Resume.doc"
         };
 
