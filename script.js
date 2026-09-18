@@ -231,7 +231,7 @@ function loadProjects() {
             role: "Backend Developer",
             team: "4 members",
             icon: "fas fa-hands-helping"
-        }
+        },
 
         {
     title: "AI-Based Product Review Authenticity Detection System",
