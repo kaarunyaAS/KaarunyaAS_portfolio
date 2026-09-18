@@ -233,6 +233,17 @@ function loadProjects() {
             icon: "fas fa-hands-helping"
         }
 
+        {
+    title: "AI-Based Product Review Authenticity Detection System",
+    date: "August 2026",
+    description: "Machine learning system that classifies online product reviews as genuine or fake using TF-IDF feature extraction and Logistic Regression, achieving 90.46% accuracy.",
+    tech: ["Python", "Pandas", "NLTK", "Scikit-learn", "TF-IDF", "Logistic Regression"],
+    github: "https://github.com/kaarunyaAS/reviewguard_company",
+    role: "ML Developer",
+    team: "Individual",
+    icon: "fas fa-star"
+}
+
     ];
 
     const projectsGrid = document.querySelector('.projects-grid');
